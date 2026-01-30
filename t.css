@@ -65,10 +65,11 @@ header {
     text-align: center;
     vertical-align: middle;
 }
-a:link {
-    color: whitesmoke;
 
+a:link{
+    color: whitesmoke;
 }
+
 a:visited {
     color: white;
 }
@@ -83,4 +84,3 @@ p {
     text-align: center;
     color: whitesmoke;
 }
-
